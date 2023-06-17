@@ -13,7 +13,7 @@
 
 1. Clona el repositorio del proyecto desde GitHub:
 
-	`git clone https://github.com/dylan29jf/gaspi-back.git`
+	`git clone https://github.com/EnriqueGuzmanCruz/gaspi-back-main`
 
 2. Abre una terminal y navega hasta el directorio raíz del proyecto:
 
