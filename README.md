@@ -41,4 +41,4 @@ El proyecto debería estar disponible en `http://localhost:5500`.
 
 ### Autor
 
-- LinkedIn
+- Enrique Guzman
